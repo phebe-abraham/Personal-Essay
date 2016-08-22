@@ -13,5 +13,7 @@ I would like to pursue programming more seriously so that I may use my skills to
 >
 If accepted into the program, and upon completion, I would make sure that I work as a developer in a good company. This would allow me to gain greater knowledge, growth, and experience in the field. Once I gain some experience in this manner, I would also like to pursue my desire of creating an educational program which can meet national standards and increase the quality of education for all students, regardless of race or socio-economic background. This is an idea which I have been developing over time, but with the future knowledge in programming and the experience that is gained through working with a big company, this idea for an educational program could actually begin. 
 
-3. 
+3. After reading Ada's Vision, Mision and Inclusivity Statement, how will you contribute to Ada's vision for an inclusive and diverse community?
+>
+I would contribute
 
