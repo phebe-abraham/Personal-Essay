@@ -15,5 +15,5 @@ If accepted into the program, and upon completion, I would make sure that I work
 
 3. After reading Ada's Vision, Mision and Inclusivity Statement, how will you contribute to Ada's vision for an inclusive and diverse community?
 >
-I would contribute
+I would be a good candidate for Ada’s program because my character and goals are aligned with Ada’s mission. Ada aims to diversify the field of technology by enabling women to become software developers. Ada aims to produce developers who will be able to contribute to the ever changing world of software.  
 
