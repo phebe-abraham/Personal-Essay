@@ -2,6 +2,7 @@
 ######Phebe Abraham
 
 1. Why are you interested in programming? What have you done to expose yourself to programming so far?
+
   I am interested in programming because there are still untapped capabilities in the field of technology which can greater advance society. I would like to gain the necessary knowledge to be a top programmer and become a part of the advancement in technology.
 
   In high school I had the opportunity to take a two-year class called Information Technology in a Global Society. In this class I was able to receive more formal guidance through basic programs. This class resulted in the conception of my passion for software development. This event in my life sparked my interest in programming and through the increased accessibility of resources, I began to teach my self the basics in coding. Since I did not have any formal training, I taught myself through online resources and exposed myself to basics in coding, Java script, the command line, and creating a website. I also took on small projects for my church such as, creating video presentations for special events and creating a webpage. These projects allowed me to practice what I was learning and gave me the experience to increase my familiarity with certain tasks and programs.
